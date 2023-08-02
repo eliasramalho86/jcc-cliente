@@ -1,0 +1,14 @@
+{
+  "name": "jcc",
+  "version": "1.0.0",
+  "description": "Projeto de testes E2E no jcc",
+  "main": "index.js",
+  "author": "Elias Ramalho",
+  "license": "MIT",
+  "devDependencies": {
+    "faker-br": "^0.4.1"
+  },
+  "dependencies": {
+    "cypress": "12.2.0"
+  }
+}
